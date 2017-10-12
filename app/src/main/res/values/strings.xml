@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Accasy</string>
+    <array name="category">
+        <item>Street</item>
+        <item>Utility</item>
+    </array>
+    <array name="cat_street">
+        <item>Street_light</item>
+        <item>Pothole</item>
+        <item>Traffic_light</item>
+    </array>
+    <array name="cat_utility">
+        <item>Water_pipe</item>
+        <item>Electric_cable</item>
+        <item>Transformer</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="permissionTitle">Permission</string>
+    <string name="permissionContent">Some permissions not granted. Will like to try again?</string>
+    <string name="permissionCancelText">No</string>
+    <string name="permissionConfirmText">Yes</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="nav_item_activity_titles">
+        <item>Report</item>
+        <item>Report Map</item>
+        <item>History</item>
+        <item>Feedback</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="host">http://www.accasy.miawoltn.com.ng</string>
+    <string name="endpoint">api/report</string>
+
+    <string name="localhost">http://192.168.137.1:8080/accasy/public</string>
+
+    <string name="feedback_text"><i><b>Help us improve Accasy by providing us with your valuable feedback. We assure you that we will look into it. Thank you.</b></i>
+    </string>
+
+</resources>
